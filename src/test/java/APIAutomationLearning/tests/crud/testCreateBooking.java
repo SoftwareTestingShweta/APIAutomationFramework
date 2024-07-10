@@ -1,4 +1,4 @@
 package APIAutomationLearning.tests.crud;
 
-public class TestCreateBooking {
+public class testCreateBooking {
 }
